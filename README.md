@@ -2,5 +2,5 @@
 
 ---
 
-[JAVA](/chapter1.md "JAVA")
+[JAVA](/chapter1.md "Java 相关")
 
